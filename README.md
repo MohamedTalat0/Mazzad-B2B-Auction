@@ -17,31 +17,29 @@ A team-based backend project built with **ASP.NET Core** that enables businesses
 
 ## Key Features
 
-- Multi-tenant architecture
-- Secure Authentication & Authorization
+- Multi-Tenant Architecture
+- Reverse Auction (Tender) System
+- Real-Time Chat & Notifications using SignalR
+- Live Bidding System
+- Company Registration & Verification Workflow
 - Role-Based Access Control (RBAC)
-- JWT Authentication
-- Real-time notifications using SignalR
-- Auction creation and management
-- Bidding system
+- JWT Authentication & Refresh Tokens
+- Two-Factor Authentication (2FA)
+- Dashboard & Analytics
 - RESTful APIs
-- Entity Framework Core & SQL Server
 
-## My Contributions
+## My Responsibilities
 
-As part of the development team, my primary responsibilities included:
+As part of the development team, I was primarily responsible for designing and implementing the authentication and authorization module, including:
 
-- Designed and implemented Authentication & Authorization.
-- Built a secure JWT-based authentication system.
-- Implemented Refresh Token authentication.
-- Implemented TOTP-based Two-Factor Authentication (2FA).
-- Configured ASP.NET Core Identity.
-- Developed the multi-tenant authentication workflow for users and companies.
-- Implemented company onboarding and registration workflow with document submission.
-- Developed the Super Admin approval workflow for company verification before account activation.
-- Implemented Role-Based Access Control (RBAC) for Super Admin, Company Admin, and Company Users.
-- Built secure REST API endpoints for authentication and user management.
-- Collaborated with the team using Git & GitHub.
+- Authentication & Authorization.
+- JWT Authentication with Refresh Tokens.
+- TOTP-based Two-Factor Authentication (2FA).
+- Multi-tenant authentication workflow.
+- Company onboarding and registration workflow.
+- Super Admin approval workflow for company verification.
+- Role-Based Access Control (RBAC) for Super Admin, Company Admin, and Company Users.
+- Authentication and User Management APIs.
 
 ## Architecture
 
